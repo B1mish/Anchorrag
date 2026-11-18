@@ -6,6 +6,9 @@ Upload PDF, DOCX, Markdown or text files, ask questions in plain language, and g
 
 ![AnchorRAG demo: an answer with page citations, then a question the documents can't answer being declined](assets/demo.gif)
 
+
+Video link: https://youtu.be/ZwMOPm98sDk
+
 **[Get AnchorRAG on Gumroad](https://codefoundry.gumroad.com/l/AnchorRAG?utm_source=github)**: one-time purchase, full source code, no subscription.
 
 > This repository holds the documentation, evaluation results and demo media.
