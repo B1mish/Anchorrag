@@ -9,7 +9,7 @@ Upload PDF, DOCX, Markdown or text files, ask questions in plain language, and g
 
 Video link: https://youtu.be/ZwMOPm98sDk
 
-**[Get AnchorRAG on Gumroad](https://gum.co/u/ohnnkllx))**: one-time purchase, full source code, no subscription.
+**[Get AnchorRAG on Gumroad](https://gum.co/u/ohnnkllx)**: one-time purchase, full source code, no subscription.
 
 > This repository holds the documentation, evaluation results and demo media.
 > The source code is distributed through Gumroad.
